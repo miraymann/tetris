@@ -1,0 +1,9 @@
+*.[Oo]bj
+*.exe
+*.pdb
+*.suo
+obj/
+[Bb]in
+[Dd]ebug*/
+[Rr]elease*/
+Ankh.NoLoad
